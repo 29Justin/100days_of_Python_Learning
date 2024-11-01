@@ -77,6 +77,6 @@ Join this hands-on journey to **Python mastery** and transform your ideas into c
     <b>Made with ❤️ by <a>Justin Nadar</a></b>  
     <br>
     Connect with me on 
-    <a href="www.linkedin.com/in/justin-nadar-0671b3268">LinkedIn</a> | 
+    <a href="www.linkedin.com/in/justin-nadar-0671b3268">Linkedin</a> | 
     <a href="https://x.com/JustinNadar7">Twitter</a>
 </p>
